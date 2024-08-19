@@ -9,5 +9,5 @@ to download version 5 of CFTT's Federated Testing live Linux .iso file
 
 ![Berikut ini flow pengetesan CFTT](cftt_flow.png) 
 
-![Command list ATA and SCSI total 36 commad](CFTT command list.png) 
+![Command list ATA and SCSI total 36 commad](CFTT_command_list.png) 
 
